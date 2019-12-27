@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<config>
+    <type name="Magento\Customer\Block\Address\Edit">
+        <plugin name="vaimo_extension_attribute_plugin_edit_address" type="Vaimo\ExtensionAttributes\Plugin\Customer\Block\EditPlugin" sortOrder="10"/>
+    </type>
+</config>
